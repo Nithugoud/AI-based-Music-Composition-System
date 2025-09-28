@@ -1,5 +1,5 @@
 import streamlit as st
-from mood_analyzer import MoodAnalyzer
+from mood_Analyzer import MoodAnalyzer
 from music_params import MusicParameterProcessor
 from musicgen_engine import MusicGenEngine
 from auth import (
