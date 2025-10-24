@@ -1,15 +1,4 @@
-__pycache__/
-*.pyc
-users.db
-*.wav
-*.mp3
-output.*
-venv/
-env/
-.env
-*.egg-info/
-dist/
-build/# Python
+# Python
 __pycache__/
 *.py[cod]
 *$py.class
